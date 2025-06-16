@@ -12,11 +12,3 @@ Microservicio desarrollado en **Java Spring Boot** con conexión a **PostgreSQL*
 - IDE recomendado: IntelliJ o VS Code
 
 ---
-
-## ⚙️ Configuración de base de datos
-
-1. Crea la base de datos:
-
-```sql
-CREATE DATABASE pruebaestudiante;
-psql -U postgres -c "CREATE DATABASE PRUEBAESTUDIANTE;"
